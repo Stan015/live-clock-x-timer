@@ -1,0 +1,21 @@
+{
+  "name": "real-time-update",
+  "version": "1.0.0",
+  "description": "a mini real time update project",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "author":{
+    "name": "Stanley Azi",
+    "email": "azistanley17@gmail.com"
+  },
+  "dependencies": {
+    "vite": "^5.2.6"
+  }
+}
